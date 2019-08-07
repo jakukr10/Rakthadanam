@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#CE4BE4</color>
+    <color name="colorPrimaryDark">#B92DD1</color>
+    <color name="colorAccent">#D0F04236</color>
+    <color name="splashcolor">#D0F44336</color>//created color for background of splashScreen
+</resources>
